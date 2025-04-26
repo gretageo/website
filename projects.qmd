@@ -4,9 +4,9 @@ title: "Projects"
 
 ## Micro-stratigraphic and multi-method approach to tackling biogenic deposits: The case study of Biśnik Cave (Poland)
 
-### PI: Greta Brancaleoni
-
 #### Description
+
+##### PI: Greta Brancaleoni
 
 Advanced biomolecular methods are increasingly sought after by archaeologists, and biogenic sediments are prime targets for such analyses. However, taphonomic processes—including diagenesis, erosion, and climate‑related alterations—can modify, relocate, or destroy these deposits compromising their stratigraphic integrity. This, in turn, affects the accurate interpretation of biomolecular data. A microscopic and multi-method approach can aid in developing a well-defined depositional framework. In this project, I apply such an approach to Biśnik Cave (Poland), situated in the Kraków‑Częstochowa Upland. The cave has a thick Quaternary sequence, one of the longest among Polish caves, yet its formation history remains partially understood. Previous efforts have focused on understanding taphonomic processes of biogenic sediments related to Marine Isotope Stage 5 (MIS5), but a comprehensive site formation study encompassing the entire sequence has not yet been conducted. Therefore, this research aims to: a) assess depositional and taphonomic processes of the entire sedimentary sequence of Biśnik Cave, focusing on the integrity of biogenic sediments through a micro‑stratigraphic and multi-method approach; b) improve the identification of biogenic inputs and components, such as bones and coprolites, and understand the potential effects of taphonomic processes on them. My methodology includes the application of micromorphology and micro‑analytical methods such as micro-CT, SEM-EDS, micro-XRF, and micro-FTIR. This research will provide a better understanding of the site formation history and, particularly, the taphonomic processes affecting biogenic sediments in the cave, offering a robust framework for future applications of advanced biomolecular methods.
 
