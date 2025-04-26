@@ -10,10 +10,11 @@ Russian
 
 ### Never-ending learning
 
-English (level C1)\
+English (level C1)
+
 Polish (level A2)
 
-### Mother tongue
+#### Mother tongue
 
 Italian
 
@@ -27,5 +28,8 @@ QGis enthusiast
 
 ## Reads
 
-*Current*: Arthur's Island - Elsa Morante
+*Current*|Arthur's Island - Elsa Morante
 
+## Favorite yoga pose
+
+![Pigeon](img/pigeon.png)
