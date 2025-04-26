@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - icons
+  
   
 website:
   title: "Personal website"
@@ -14,11 +17,11 @@ website:
     tools:
       - icon: github
         href: https://github.com/gretageo/website
-      - icon: orcid
+      - image: icons/orcid.svg
         href: https://orcid.org/0000-0002-5563-3724
-      - icon: ingpan
+      - text: ingpan
         href: https://www.ing.pan.pl/pracownicy/strony-naukowcow/greta-brancaleoni
-      - icon: researchgate
+      - image: icons/researchgate.svg
         href: https://www.researchgate.net/profile/Greta-Brancaleoni-2?ev=hdr_xprf
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
