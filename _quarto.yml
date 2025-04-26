@@ -12,10 +12,14 @@ website:
       - publications.qmd
       - blog.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
       - icon: github
         href: https://github.com/gretageo/website
+      - icon: orcid
+        href: https://orcid.org/0000-0002-5563-3724
+      - icon: ingpan
+        href: https://www.ing.pan.pl/pracownicy/strony-naukowcow/greta-brancaleoni
+      - icon: researchgate
+        href: https://www.researchgate.net/profile/Greta-Brancaleoni-2?ev=hdr_xprf
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023, Greta Brancaleoni"
