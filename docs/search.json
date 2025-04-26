@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a young scientist with a background in Geology and Earth Sciences. I specialize in the reconstruction of site formation processes at archaeological sites through microstratigraphy and complementary analyses such as grain size and geochemical analyses. My research areas are Central Asia and Central Europe. Since 2019, I have been conducted fieldworks in and exploring beautiful countries such as Kyrgyzstan, Uzbekistan, and Tajikistan. As part of my current GACT fellowship at the University of Tuebingen, I am currently exploring micro-analytical methods such as micro-FTIR and micro-XRF to support and complement my micromorphological analyses at fumier sites in Central Asia (Kyrgyzstan). In addition, I recently acquired funding from the NCN funding scheme for the study of site formation and taphonomic processes of biogenic sediments at Biśnik Cave—one of the most important archaeological sites in Poland. I am employing micromorphology, micro-analytical methods (micro-FTIR, micro-XRF, SEM-EDS) to the study of sediments, bones, and coprolites.\n\n\nReconstruction of site formation processes at archaeological sites, microstratigraphy, human and environment interaction, domestication, pastoralism, geoarchaeology, Quaternary geology\n\n\n\n2024 PhD Environmental and Earth Sciences\nPolish Academy of Sciences Institute of Geological Sciences (INGPAN)\nWarsaw, Poland\n2016 MSc Geology\nUniversity of Bologna\nBologna, Italy\n2014 BSc Geological Sciences\nUniversity of Bologna\nBologna, Italy\n\n\n\nI currently am a research assistant at INGPAN and I am leading a project funded by NCN Miniatura 8 on taphonomic prosesses of biogenic deposits in Biśnik Cave (Poland)\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "About Me",
+    "section": "",
+    "text": "Reconstruction of site formation processes at archaeological sites, microstratigraphy, human and environment interaction, domestication, pastoralism, geoarchaeology, Quaternary geology"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "2024 PhD Environmental and Earth Sciences\nPolish Academy of Sciences Institute of Geological Sciences (INGPAN)\nWarsaw, Poland\n2016 MSc Geology\nUniversity of Bologna\nBologna, Italy\n2014 BSc Geological Sciences\nUniversity of Bologna\nBologna, Italy"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "I currently am a research assistant at INGPAN and I am leading a project funded by NCN Miniatura 8 on taphonomic prosesses of biogenic deposits in Biśnik Cave (Poland)"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -12,12 +40,5 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Thanks for checking out my web site!"
   }
 ]

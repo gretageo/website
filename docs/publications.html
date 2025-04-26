@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About Me – Personal website</title>
+<title>Publications – Personal website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -69,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -87,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -95,7 +96,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link active" href="./publications.html" aria-current="page"> 
 <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
@@ -111,49 +112,30 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-broadside column-page">
-  <div class="about-main">
-    <div class="about-entity" style="background-image: url('img/me.jpg')"></div>
-    <div class="about-contents"><header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About Me</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header><div id="me">
-<p>I am a young scientist with a background in Geology and Earth Sciences. I specialize in the reconstruction of site formation processes at archaeological sites through microstratigraphy and complementary analyses such as grain size and geochemical analyses. My research areas are Central Asia and Central Europe. Since 2019, I have been conducted fieldworks in and exploring beautiful countries such as Kyrgyzstan, Uzbekistan, and Tajikistan. As part of my current GACT fellowship at the University of Tuebingen, I am currently exploring micro-analytical methods such as micro-FTIR and micro-XRF to support and complement my micromorphological analyses at <em>fumier</em> sites in Central Asia (Kyrgyzstan). In addition, I recently acquired funding from the NCN funding scheme for the study of site formation and taphonomic processes of biogenic sediments at Biśnik Cave—one of the most important archaeological sites in Poland. I am employing micromorphology, micro-analytical methods (micro-FTIR, micro-XRF, SEM-EDS) to the study of sediments, bones, and coprolites.</p>
-<section id="interests" class="level2">
-<h2 data-anchor-id="interests">Interests</h2>
-<p>Reconstruction of site formation processes at archaeological sites, microstratigraphy, human and environment interaction, domestication, pastoralism, geoarchaeology, Quaternary geology</p>
-</section>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<p>2024 <strong>PhD</strong> Environmental and Earth Sciences<br>
-Polish Academy of Sciences Institute of Geological Sciences (INGPAN)<br>
-<em>Warsaw, Poland</em></p>
-<p>2016 <strong>MSc</strong> Geology<br>
-University of Bologna<br>
-<em>Bologna, Italy</em></p>
-<p>2014 <strong>BSc</strong> Geological Sciences<br>
-University of Bologna<br>
-<em>Bologna, Italy</em></p>
-</section>
-<section id="experience" class="level2">
-<h2 data-anchor-id="experience">Experience</h2>
-<p>I currently am a <em>research assistant</em> at INGPAN and I am leading a project funded by NCN Miniatura 8 on taphonomic prosesses of biogenic deposits in Biśnik Cave (Poland)</p>
-</section>
-</div></div>
-  </div>
+<h1 class="title">Publications</h1>
 </div>
 
-<p>Thanks for checking out my web site!</p>
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
 
 
 
@@ -179,6 +161,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
