@@ -6,7 +6,7 @@ project:
   
   
 website:
-  title: "Personal website"
+  title: "Greta Brancaleoni"
   navbar:
     left:
       - href: index.qmd
