@@ -2,3 +2,30 @@
 title: "Other interests"
 ---
 
+## Languages
+
+### Currently learning
+
+Russian
+
+### Never-ending learning
+
+English (level C1)\
+Polish (level A2)
+
+### Mother tongue
+
+Italian
+
+## Geeky stuff
+
+GitHub beginner\
+R and Quarto beginner\
+Goals: write an entire paper with Quarto in RStudio
+
+QGis enthusiast
+
+## Reads
+
+*Current*: Arthur's Island - Elsa Morante
+
